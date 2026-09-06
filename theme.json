@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "settings": {
+    "color": {
+      "palette": [
+        {"name": "Charcoal", "slug": "primary", "color": "#1A1A1A"},
+        {"name": "Gold", "slug": "accent", "color": "#C9A84C"},
+        {"name": "Gold Dark", "slug": "accent-dark", "color": "#A8873A"},
+        {"name": "Background", "slug": "bg", "color": "#F8F8F6"},
+        {"name": "Background Dark", "slug": "bg-dark", "color": "#2D2D2D"},
+        {"name": "Text", "slug": "text", "color": "#1A1A1A"},
+        {"name": "Text Light", "slug": "text-light", "color": "#6B6B6B"},
+        {"name": "White", "slug": "white", "color": "#FFFFFF"},
+        {"name": "Footer", "slug": "footer", "color": "#111111"},
+        {"name": "Muted Heading", "slug": "muted-heading", "color": "#B0B0B0"},
+        {"name": "Error", "slug": "error", "color": "#c0392b"},
+        {"name": "Border", "slug": "border", "color": "#dddddd"},
+        {"name": "Border Light", "slug": "border-light", "color": "#eeeeee"},
+        {"name": "Utility Dark", "slug": "utility-dark", "color": "#333333"}
+      ]
+    },
+    "typography": {
+      "fontFamilies": [
+        {"name": "Montserrat", "slug": "montserrat", "fontFamily": "Montserrat, sans-serif"},
+        {"name": "Open Sans", "slug": "open-sans", "fontFamily": "Open Sans, sans-serif"}
+      ],
+      "fontSizes": [
+        {"name": "Small", "slug": "sm", "size": "14px"},
+        {"name": "Base", "slug": "base", "size": "16px"},
+        {"name": "Medium", "slug": "md", "size": "18px"},
+        {"name": "Large", "slug": "lg", "size": "24px"},
+        {"name": "XL", "slug": "xl", "size": "32px"},
+        {"name": "2XL", "slug": "2xl", "size": "48px"},
+        {"name": "3XL", "slug": "3xl", "size": "64px"}
+      ]
+    },
+    "spacing": {
+      "spacingSizes": [
+        {"name": "XS", "slug": "xs", "size": "8px"},
+        {"name": "SM", "slug": "sm", "size": "16px"},
+        {"name": "MD", "slug": "md", "size": "32px"},
+        {"name": "LG", "slug": "lg", "size": "64px"},
+        {"name": "XL", "slug": "xl", "size": "96px"}
+      ]
+    }
+  }
+}
